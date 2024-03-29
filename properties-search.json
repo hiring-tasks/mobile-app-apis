@@ -1,0 +1,872 @@
+{
+    "total_compounds": 0,
+    "total_properties": 3770,
+    "total_property_groups": 0,
+    "property_types": [
+        {
+            "id": 21,
+            "count": 1444
+        },
+        {
+            "id": 1,
+            "count": 472
+        },
+        {
+            "id": 6,
+            "count": 153
+        },
+        {
+            "id": 7,
+            "count": 149
+        },
+        {
+            "id": 3,
+            "count": 200
+        },
+        {
+            "id": 4,
+            "count": 96
+        },
+        {
+            "id": 5,
+            "count": 436
+        },
+        {
+            "id": 9,
+            "count": 59
+        },
+        {
+            "id": 11,
+            "count": 4
+        },
+        {
+            "id": 13,
+            "count": 67
+        },
+        {
+            "id": 8,
+            "count": 313
+        },
+        {
+            "id": 10,
+            "count": 320
+        },
+        {
+            "id": 12,
+            "count": 1
+        },
+        {
+            "id": 20,
+            "count": 56
+        }
+    ],
+    "values": [
+        {
+            "id": 46370,
+            "slug": "46370-apartment-for-sale-in-zed-with-2-bedrooms-in-el-sheikh-zayed-by-ora-developers",
+            "name": "Apartment for sale in ZED  with 2 bedrooms in El Sheikh Zayed by Ora Developers",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 274,
+                "lat": 30.0466084,
+                "long": 31.00310115,
+                "name": "ZED ",
+                "slug": "274-zed-el-sheikh-zayed-ora",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 26,
+                "name": "El Sheikh Zayed"
+            },
+            "developer": {
+                "id": 85,
+                "name": "Ora Developers",
+                "slug": "85-ora-developers",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/85/Ora.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/225907/medium_ZED_Park_Side_Residences_E-Brochure_21_March_2022_1__Page_06.jpg",
+            "finishing": "finished",
+            "min_unit_area": 144,
+            "max_unit_area": 144,
+            "min_price": 14552000,
+            "max_price": 16040000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 136425,
+            "min_down_payment": 727600,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 2,
+            "min_ready_by": "2024-10-31",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 14527,
+            "property_ranking": 9.0,
+            "compound_ranking": 15,
+            "tags": []
+        },
+        {
+            "id": 26577,
+            "slug": "26577-apartment-for-sale-in-bloomfields-with-1-bedroom-in-mostakbal-city-by-tatweer-misr",
+            "name": "Apartment for sale in Bloomfields  with 1 bedroom in Mostakbal City by Tatweer Misr",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 202,
+                "lat": 30.07020759,
+                "long": 31.64958959,
+                "name": "Bloomfields ",
+                "slug": "202-bloomfields-tatweer-misr-mostakbal-city",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 10,
+                "name": "Mostakbal City"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/195056/medium_Screenshot_1.png",
+            "finishing": "not_finished",
+            "min_unit_area": 70,
+            "max_unit_area": 70,
+            "min_price": 4384000,
+            "max_price": 4545000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 41100,
+            "min_down_payment": 438400,
+            "number_of_bathrooms": 1,
+            "number_of_bedrooms": 1,
+            "min_ready_by": "2024-12-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 0,
+            "property_ranking": 10.0,
+            "compound_ranking": 10,
+            "tags": []
+        },
+        {
+            "id": 46048,
+            "slug": "46048-villa-for-sale-in-il-monte-galala-with-3-bedrooms-in-ain-sokhna-by-tatweer-misr",
+            "name": "Villa for sale in Il Monte Galala with 3 bedrooms in Ain Sokhna by Tatweer Misr",
+            "property_type": {
+                "id": 1,
+                "name": "Villa",
+                "manual_ranking": 2
+            },
+            "compound": {
+                "id": 90,
+                "lat": 29.50067982,
+                "long": 32.41215316,
+                "name": "Il Monte Galala",
+                "slug": "90-il-monte-galala",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 4,
+                "name": "Ain Sokhna"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/224204/medium_Il_Monte_Galalail_mont_v_2.PNG",
+            "finishing": "finished",
+            "min_unit_area": 155,
+            "max_unit_area": 155,
+            "min_price": 14200000,
+            "max_price": 16300000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 147916,
+            "min_down_payment": 0,
+            "number_of_bathrooms": 4,
+            "number_of_bedrooms": 3,
+            "min_ready_by": "2029-06-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": null,
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 0,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 10310,
+            "property_ranking": 8.0,
+            "compound_ranking": 9,
+            "tags": []
+        },
+        {
+            "id": 46090,
+            "slug": "46090-chalet-for-sale-in-salt-with-2-bedrooms-in-north-coast-by-tatweer-misr",
+            "name": "Chalet for sale in Salt with 2 bedrooms in North Coast by Tatweer Misr",
+            "property_type": {
+                "id": 5,
+                "name": "Chalet",
+                "manual_ranking": 7
+            },
+            "compound": {
+                "id": 927,
+                "lat": 30.99227265,
+                "long": 28.68859874,
+                "name": "Salt",
+                "slug": "927-salt",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 3,
+                "name": "North Coast"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/154682/medium_Screenshot_2023-05-25_222849.png",
+            "finishing": "finished",
+            "min_unit_area": 95,
+            "max_unit_area": 95,
+            "min_price": 8737000,
+            "max_price": 9215000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 77358,
+            "min_down_payment": 873700,
+            "number_of_bathrooms": 2,
+            "number_of_bedrooms": 2,
+            "min_ready_by": "2028-12-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 1,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 12752,
+            "property_ranking": 1.0,
+            "compound_ranking": 7,
+            "tags": []
+        },
+        {
+            "id": 45777,
+            "slug": "45777-core-for-sale-in-o-west-orascom-with-4-bedrooms-in-6th-of-october-city-by-orascom-development-egypt",
+            "name": "CORE for sale in O West Orascom with 4 bedrooms in 6th of October City by Orascom Development Egypt",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 258,
+                "lat": 29.96368335,
+                "long": 30.99575611,
+                "name": "O West Orascom",
+                "slug": "258-o-west-orascom",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 1,
+                "name": "6th of October City"
+            },
+            "developer": {
+                "id": 35,
+                "name": "Orascom Development Egypt",
+                "slug": "35-orascom-development-egypt",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/35/Orascom.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/220799/medium_O_West_Orascomcore_1.PNG",
+            "finishing": "semi_finished",
+            "min_unit_area": 214,
+            "max_unit_area": 214,
+            "min_price": 12599000,
+            "max_price": 13443000,
+            "currency": "EGP",
+            "max_installment_years": 7,
+            "max_installment_years_months": "7.0",
+            "min_installments": 134989,
+            "min_down_payment": 629950,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 4,
+            "min_ready_by": "2028-12-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 12237,
+            "property_ranking": 4.0,
+            "compound_ranking": 19,
+            "tags": []
+        },
+        {
+            "id": 8395,
+            "slug": "8395-il-bosco-new-capital-the-park-2-bedrooms-apartment",
+            "name": "Apartment for sale in Il Bosco New Capital with 2 bedrooms in New Capital City by Misr Italia Properties",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 181,
+                "lat": 29.97459034,
+                "long": 31.73014799,
+                "name": "Il Bosco New Capital",
+                "slug": "181-il-bosco-new-capital",
+                "sponsored": 0,
+                "nawy_organization_id": 2
+            },
+            "area": {
+                "id": 9,
+                "name": "New Capital City"
+            },
+            "developer": {
+                "id": 55,
+                "name": "Misr Italia Properties",
+                "slug": "55-misr-italia-properties",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/55/misr.png"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/16562/medium_piZEeIhX1jEXkDNRFzk8bvOslP0HAxScreen_Shot_2021-02-05_at_5.26.45_PM.png",
+            "finishing": "not_finished",
+            "min_unit_area": 126,
+            "max_unit_area": 131,
+            "min_price": 6631222,
+            "max_price": 7399647,
+            "currency": "EGP",
+            "max_installment_years": 9,
+            "max_installment_years_months": "9.0",
+            "min_installments": 52190,
+            "min_down_payment": 331561,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 2,
+            "min_ready_by": "2024-03-29",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": null,
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 0,
+            "property_ranking": 16.0,
+            "compound_ranking": 12,
+            "tags": []
+        },
+        {
+            "id": 46459,
+            "slug": "46459-apartment-for-sale-in-badya-with-2-bedrooms-in-6th-of-october-city-by-palm-hills-developments",
+            "name": "Apartment for sale in Badya  with 2 bedrooms in 6th of October City by Palm Hills Developments",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 223,
+                "lat": 29.85478852,
+                "long": 30.90711593,
+                "name": "Badya ",
+                "slug": "223-badya-palm-hills",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 1,
+                "name": "6th of October City"
+            },
+            "developer": {
+                "id": 16,
+                "name": "Palm Hills Developments",
+                "slug": "16-palm-hills-developments",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/16/Palm_Hills.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/201362/medium_Screenshot_1.png",
+            "finishing": "not_finished",
+            "min_unit_area": 171,
+            "max_unit_area": 171,
+            "min_price": 9838000,
+            "max_price": 9838000,
+            "currency": "EGP",
+            "max_installment_years": 10,
+            "max_installment_years_months": "10.0",
+            "min_installments": 81983,
+            "min_down_payment": 0,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 2,
+            "min_ready_by": "2025-04-29",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 0,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 12237,
+            "property_ranking": 14.0,
+            "compound_ranking": 16,
+            "tags": []
+        },
+        {
+            "id": 46974,
+            "slug": "46974-en",
+            "name": "Apartment for sale in ZED East with 3 bedrooms in New Cairo by Ora Developers",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 345,
+                "lat": 29.97580103,
+                "long": 31.57048426,
+                "name": "ZED East",
+                "slug": "345-zed-east",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 2,
+                "name": "New Cairo"
+            },
+            "developer": {
+                "id": 85,
+                "name": "Ora Developers",
+                "slug": "85-ora-developers",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/85/Ora.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/228452/medium_zed_east_5.png",
+            "finishing": "finished",
+            "min_unit_area": 175,
+            "max_unit_area": 179,
+            "min_price": 17450000,
+            "max_price": 18083000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 172682,
+            "min_down_payment": 872500,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 3,
+            "min_ready_by": "2027-03-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 1,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 11582,
+            "property_ranking": 4.0,
+            "compound_ranking": 2,
+            "tags": []
+        },
+        {
+            "id": 42892,
+            "slug": "42892-apartment-for-sale-in-zed-with-3-bedrooms-in-el-sheikh-zayed-by-ora-developers",
+            "name": "Apartment for sale in ZED  with 3 bedrooms in El Sheikh Zayed by Ora Developers",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 274,
+                "lat": 30.0466084,
+                "long": 31.00310115,
+                "name": "ZED ",
+                "slug": "274-zed-el-sheikh-zayed-ora",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 26,
+                "name": "El Sheikh Zayed"
+            },
+            "developer": {
+                "id": 85,
+                "name": "Ora Developers",
+                "slug": "85-ora-developers",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/85/Ora.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/227675/medium_Screenshot_1.png",
+            "finishing": "finished",
+            "min_unit_area": 155,
+            "max_unit_area": 155,
+            "min_price": 15547000,
+            "max_price": 15547000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 145753,
+            "min_down_payment": 777350,
+            "number_of_bathrooms": 3,
+            "number_of_bedrooms": 3,
+            "min_ready_by": "2024-10-31",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": null,
+            "recommended_financing": null,
+            "property_ranking": null,
+            "compound_ranking": null,
+            "tags": []
+        },
+        {
+            "id": 41567,
+            "slug": "41567-apartment-for-sale-in-bloomfields-with-1-bedroom-in-mostakbal-city-by-tatweer-misr",
+            "name": "Apartment for sale in Bloomfields  with 1 bedroom in Mostakbal City by Tatweer Misr",
+            "property_type": {
+                "id": 21,
+                "name": "Apartment",
+                "manual_ranking": 1
+            },
+            "compound": {
+                "id": 202,
+                "lat": 30.07020759,
+                "long": 31.64958959,
+                "name": "Bloomfields ",
+                "slug": "202-bloomfields-tatweer-misr-mostakbal-city",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 10,
+                "name": "Mostakbal City"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/195307/medium_Screenshot_16.png",
+            "finishing": "not_finished",
+            "min_unit_area": 76,
+            "max_unit_area": 76,
+            "min_price": 4443000,
+            "max_price": 4625000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 37024,
+            "min_down_payment": 444300,
+            "number_of_bathrooms": 1,
+            "number_of_bedrooms": 1,
+            "min_ready_by": "2025-12-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 0,
+            "property_ranking": 7.0,
+            "compound_ranking": 10,
+            "tags": []
+        },
+        {
+            "id": 46050,
+            "slug": "46050-villa-for-sale-in-il-monte-galala-with-4-bedrooms-in-ain-sokhna-by-tatweer-misr",
+            "name": "Villa for sale in Il Monte Galala with 4 bedrooms in Ain Sokhna by Tatweer Misr",
+            "property_type": {
+                "id": 1,
+                "name": "Villa",
+                "manual_ranking": 2
+            },
+            "compound": {
+                "id": 90,
+                "lat": 29.50067982,
+                "long": 32.41215316,
+                "name": "Il Monte Galala",
+                "slug": "90-il-monte-galala",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 4,
+                "name": "Ain Sokhna"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/224213/medium_Il_Monte_Galalail_mont_v_2.PNG",
+            "finishing": "finished",
+            "min_unit_area": 170,
+            "max_unit_area": 170,
+            "min_price": 17550000,
+            "max_price": 17550000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 182812,
+            "min_down_payment": 0,
+            "number_of_bathrooms": 5,
+            "number_of_bedrooms": 4,
+            "min_ready_by": "2029-06-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": null,
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 2,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 0,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 10310,
+            "property_ranking": 10.0,
+            "compound_ranking": 9,
+            "tags": []
+        },
+        {
+            "id": 46089,
+            "slug": "46089-chalet-for-sale-in-salt-with-3-bedrooms-in-north-coast-by-tatweer-misr",
+            "name": "Chalet for sale in Salt with 3 bedrooms in North Coast by Tatweer Misr",
+            "property_type": {
+                "id": 5,
+                "name": "Chalet",
+                "manual_ranking": 7
+            },
+            "compound": {
+                "id": 927,
+                "lat": 30.99227265,
+                "long": 28.68859874,
+                "name": "Salt",
+                "slug": "927-salt",
+                "sponsored": 0,
+                "nawy_organization_id": null
+            },
+            "area": {
+                "id": 3,
+                "name": "North Coast"
+            },
+            "developer": {
+                "id": 33,
+                "name": "Tatweer Misr",
+                "slug": "33-tatweer-misr",
+                "logo_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/developer/logo_image/33/Tatweer_Misr.jpg"
+            },
+            "image": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/property_image/image/186117/medium_Screenshot_6.png",
+            "finishing": "finished",
+            "min_unit_area": 110,
+            "max_unit_area": 110,
+            "min_price": 9681000,
+            "max_price": 10667000,
+            "currency": "EGP",
+            "max_installment_years": 8,
+            "max_installment_years_months": "8.0",
+            "min_installments": 85717,
+            "min_down_payment": 968100,
+            "number_of_bathrooms": 2,
+            "number_of_bedrooms": 3,
+            "min_ready_by": "2028-12-30",
+            "sponsored": 0,
+            "new_property": false,
+            "company": null,
+            "resale": false,
+            "financing": false,
+            "type": "",
+            "has_offers": false,
+            "offer_title": "",
+            "limited_time_offer": false,
+            "is_cash": null,
+            "installment_type": null,
+            "in_quick_search": 1,
+            "recommended": null,
+            "manual_ranking": null,
+            "completeness_score": 1,
+            "favorite": false,
+            "ranking_type": "fast_moving",
+            "recommended_financing": 12752,
+            "property_ranking": 2.0,
+            "compound_ranking": 7,
+            "tags": []
+        }
+    ],
+    "seo_backlinks": [
+        {
+            "name": "Properties For Sale In 6th Of October City",
+            "slug": "/buy/properties-for-sale-in-6th-of-october-city"
+        },
+        {
+            "name": "Villas For Sale In Cairo",
+            "slug": "/buy/villas-for-sale-in-cairo"
+        },
+        {
+            "name": "Villas For Sale In 6th Of October City",
+            "slug": "/buy/villas-for-sale-in-6th-of-october-city"
+        },
+        {
+            "name": "Villas For Sale In Hurghada",
+            "slug": "/buy/villas-for-sale-in-hurghada"
+        },
+        {
+            "name": "Villas For Sale In New Capital City",
+            "slug": "/buy/villas-for-sale-in-new-capital-city"
+        },
+        {
+            "name": "1 Bedroom Duplexes For Sale In New Cairo",
+            "slug": "/buy/1-bedrooms-duplexes-for-sale-in-new-cairo"
+        },
+        {
+            "name": "1 Bedroom Studios For Sale In New Cairo",
+            "slug": "/buy/1-bedrooms-studios-for-sale-in-new-cairo"
+        },
+        {
+            "name": "1 Bedroom Duplexes For Sale In Ain Sokhna",
+            "slug": "/buy/1-bedrooms-duplexes-for-sale-in-ain-sokhna"
+        },
+        {
+            "name": "1 Bedroom Serviced Apartments For Sale In North Coast",
+            "slug": "/buy/1-bedrooms-serviced-apartments-for-sale-in-north-coast"
+        }
+    ],
+    "search_tracking_msg": "Failed to add search history"
+}

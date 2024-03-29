@@ -1,0 +1,209 @@
+[
+    {
+        "id": 17,
+        "name": "Alexandria",
+        "slug": "alexandria",
+        "all_slugs": {
+            "en": "alexandria",
+            "ar": "الأسكندرية"
+        }
+    },
+    {
+        "id": 5,
+        "name": "El Gouna",
+        "slug": "el-gouna",
+        "all_slugs": {
+            "en": "el-gouna",
+            "ar": "الجونة"
+        }
+    },
+    {
+        "id": 3,
+        "name": "North Coast",
+        "slug": "north-coast",
+        "all_slugs": {
+            "en": "north-coast",
+            "ar": "الساحل-الشمالي"
+        }
+    },
+    {
+        "id": 8,
+        "name": "El Shorouk",
+        "slug": "el-shorouk",
+        "all_slugs": {
+            "en": "el-shorouk",
+            "ar": "الشروق"
+        }
+    },
+    {
+        "id": 26,
+        "name": "El Sheikh Zayed",
+        "slug": "el-sheikh-zayed",
+        "all_slugs": {
+            "en": "el-sheikh-zayed",
+            "ar": "الشيخ-زايد"
+        }
+    },
+    {
+        "id": 9,
+        "name": "New Capital City",
+        "slug": "new-capital-city",
+        "all_slugs": {
+            "en": "new-capital-city",
+            "ar": "العاصمة-الإدارية-الجديدة"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Ain Sokhna",
+        "slug": "ain-sokhna",
+        "all_slugs": {
+            "en": "ain-sokhna",
+            "ar": "العين-السخنة"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Hurghada",
+        "slug": "hurghada",
+        "all_slugs": {
+            "en": "hurghada",
+            "ar": "الغردقة"
+        }
+    },
+    {
+        "id": 2,
+        "name": "New Cairo",
+        "slug": "new-cairo",
+        "all_slugs": {
+            "en": "new-cairo",
+            "ar": "القاهرة-الجديدة"
+        }
+    },
+    {
+        "id": 29,
+        "name": "Cairo",
+        "slug": "cairo",
+        "all_slugs": {
+            "en": "cairo",
+            "ar": "القاهره"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Europe",
+        "slug": "europe",
+        "all_slugs": {
+            "en": "europe",
+            "ar": "اوروبا"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Port Said",
+        "slug": "port-said",
+        "all_slugs": {
+            "en": "port-said",
+            "ar": "بورسعيد"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Ras el hekma",
+        "slug": "ras-el-hekma",
+        "all_slugs": {
+            "en": "ras-el-hekma",
+            "ar": "راس-الحكمة"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Ras Sudr",
+        "slug": "ras-sudr",
+        "all_slugs": {
+            "en": "ras-sudr",
+            "ar": "راس-سدر"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Sahl Hasheesh",
+        "slug": "sahl-hasheesh",
+        "all_slugs": {
+            "en": "sahl-hasheesh",
+            "ar": "سهل-حشيش"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Somabay",
+        "slug": "somabay",
+        "all_slugs": {
+            "en": "somabay",
+            "ar": "سوماباي"
+        }
+    },
+    {
+        "id": 14,
+        "name": "London England",
+        "slug": "london-england",
+        "all_slugs": {
+            "en": "london-england",
+            "ar": "لندن-انجلترا"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Mostakbal City",
+        "slug": "mostakbal-city",
+        "all_slugs": {
+            "en": "mostakbal-city",
+            "ar": "مدينة-المستقبل"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Madinaty",
+        "slug": "madinaty",
+        "all_slugs": {
+            "en": "madinaty",
+            "ar": "مدينتي"
+        }
+    },
+    {
+        "id": 1,
+        "name": "6th of October City",
+        "slug": "6th-of-october-city",
+        "all_slugs": {
+            "en": "6th-of-october-city",
+            "ar": "مدينه-السادس-من-اكتوبر"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Maadi",
+        "slug": "maadi",
+        "all_slugs": {
+            "en": "maadi",
+            "ar": "معادي"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Mokattam",
+        "slug": "mokattam",
+        "all_slugs": {
+            "en": "mokattam",
+            "ar": "مقطم"
+        }
+    },
+    {
+        "id": 16,
+        "name": "New Heliopolis",
+        "slug": "new-heliopolis",
+        "all_slugs": {
+            "en": "new-heliopolis",
+            "ar": "هيليوبوليس-الجديدة"
+        }
+    }
+]

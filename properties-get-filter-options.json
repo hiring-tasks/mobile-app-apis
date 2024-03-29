@@ -1,0 +1,550 @@
+{
+    "finishings": [
+        "not_finished",
+        "semi_finished",
+        "finished",
+        "furnished"
+    ],
+    "min_bedrooms": 1,
+    "max_bedrooms": 7,
+    "min_bathrooms": 1,
+    "max_bathrooms": 9,
+    "min_unit_area": 30,
+    "max_unit_area": 1287,
+    "min_price": 843575,
+    "max_price": 220112000,
+    "price_list": [
+        500000,
+        1000000,
+        1500000,
+        2000000,
+        2500000,
+        3000000,
+        3500000,
+        4000000,
+        4500000,
+        5000000,
+        5500000,
+        6000000,
+        6500000,
+        7000000,
+        7500000,
+        8000000,
+        9000000,
+        10000000,
+        11000000,
+        12000000,
+        14000000,
+        16000000,
+        18000000,
+        20000000,
+        30000000,
+        40000000,
+        50000000,
+        100000000,
+        200000000,
+        300000000,
+        400000000
+    ],
+    "min_price_list": [
+        500000,
+        1000000,
+        1500000,
+        2000000,
+        2500000,
+        3000000,
+        3500000,
+        4000000,
+        5000000,
+        6000000,
+        7000000
+    ],
+    "max_price_list": [
+        7000000,
+        9000000,
+        11000000,
+        13000000,
+        15000000,
+        17000000,
+        19000000,
+        21000000,
+        23000000,
+        25000000
+    ],
+    "min_installment_years": 1,
+    "max_installment_years": 10,
+    "installment_years_list": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "min_down_payment": 100100,
+    "max_down_payment": 42265000,
+    "down_payment_list": [
+        50000,
+        100000,
+        150000,
+        200000,
+        250000,
+        300000,
+        350000,
+        400000,
+        450000,
+        500000,
+        550000,
+        600000,
+        650000,
+        700000,
+        750000,
+        800000,
+        900000,
+        1000000,
+        1100000,
+        1200000,
+        1400000,
+        1600000,
+        1800000,
+        2000000,
+        2500000,
+        3000000,
+        4000000,
+        5000000,
+        15000000,
+        25000000,
+        35000000,
+        45000000
+    ],
+    "min_installments": 2835,
+    "max_installments": 3101875,
+    "installments_list": [
+        5000,
+        10000,
+        15000,
+        20000,
+        25000,
+        30000,
+        35000,
+        40000,
+        45000,
+        50000,
+        55000,
+        60000,
+        65000,
+        70000,
+        75000,
+        80000
+    ],
+    "max_ready_by": "2028-12-31",
+    "amenities": [
+        {
+            "id": 1,
+            "name": "Garden",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/1/Default_Icon.svg"
+        },
+        {
+            "id": 2,
+            "name": "Has roof",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/2/Default_Icon.svg"
+        },
+        {
+            "id": 3,
+            "name": "bicycles lanes",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/3/bicycle_lane.svg"
+        },
+        {
+            "id": 4,
+            "name": "Disability support",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/4/gated_parcels.svg"
+        },
+        {
+            "id": 5,
+            "name": "Finishing",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/5/finishing.svg"
+        },
+        {
+            "id": 6,
+            "name": "Jogging trail",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/6/jogging_trail.svg"
+        },
+        {
+            "id": 7,
+            "name": "Outdoor pools",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/7/Outdoor_pools.svg"
+        },
+        {
+            "id": 8,
+            "name": "Mosque",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/8/Mosque.svg"
+        },
+        {
+            "id": 9,
+            "name": "Sports Clubs",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/9/Sports_Club.svg"
+        },
+        {
+            "id": 10,
+            "name": "Business Hub",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/10/Business_Hub0000.svg"
+        },
+        {
+            "id": 11,
+            "name": "Commercial strip ",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/11/Commercial_strip_.svg"
+        },
+        {
+            "id": 12,
+            "name": "Medical center",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/12/Medical_center.svg"
+        },
+        {
+            "id": 13,
+            "name": "Schools",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/13/School.svg"
+        },
+        {
+            "id": 14,
+            "name": "Underground parking",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/14/Parking.svg"
+        },
+        {
+            "id": 15,
+            "name": "Infrastructure",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/15/Default_Icon.svg"
+        },
+        {
+            "id": 16,
+            "name": "Project Area",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/16/Project_Area.svg"
+        },
+        {
+            "id": 17,
+            "name": "Livability",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/17/Default_Icon.svg"
+        },
+        {
+            "id": 18,
+            "name": "Footprint",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/18/footprint_area.svg"
+        },
+        {
+            "id": 19,
+            "name": "Clubhouse ",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/19/Sports_Club.svg"
+        },
+        {
+            "id": 20,
+            "name": "Terrace",
+            "image_path": null
+        },
+        {
+            "id": 21,
+            "name": "Driver Room",
+            "image_path": null
+        },
+        {
+            "id": 22,
+            "name": "Nanny Room",
+            "image_path": null
+        },
+        {
+            "id": 23,
+            "name": "Sea View",
+            "image_path": null
+        },
+        {
+            "id": 24,
+            "name": "Pool View",
+            "image_path": "https://s3.eu-central-1.amazonaws.com/prod.images.cooingestate.com/admin/amenity/image/24/Pools.svg"
+        },
+        {
+            "id": 25,
+            "name": "Garden view",
+            "image_path": null
+        },
+        {
+            "id": 26,
+            "name": "Lagoon View",
+            "image_path": null
+        },
+        {
+            "id": 27,
+            "name": "First Row",
+            "image_path": null
+        },
+        {
+            "id": 28,
+            "name": "Second Row",
+            "image_path": null
+        },
+        {
+            "id": 29,
+            "name": "Third Row",
+            "image_path": null
+        },
+        {
+            "id": 30,
+            "name": "Private Pool",
+            "image_path": null
+        },
+        {
+            "id": 31,
+            "name": "Cabin",
+            "image_path": null
+        },
+        {
+            "id": 32,
+            "name": "Living Room",
+            "image_path": null
+        },
+        {
+            "id": 33,
+            "name": "Not Sea View",
+            "image_path": null
+        },
+        {
+            "id": 34,
+            "name": "4th Row",
+            "image_path": null
+        },
+        {
+            "id": 35,
+            "name": "5th Row",
+            "image_path": null
+        },
+        {
+            "id": 36,
+            "name": "Barbecue Area",
+            "image_path": null
+        },
+        {
+            "id": 37,
+            "name": "Children's Play Area",
+            "image_path": null
+        },
+        {
+            "id": 38,
+            "name": "Shared Spa",
+            "image_path": null
+        },
+        {
+            "id": 39,
+            "name": "Concierge",
+            "image_path": null
+        },
+        {
+            "id": 40,
+            "name": "Private Gym",
+            "image_path": null
+        },
+        {
+            "id": 41,
+            "name": "Children's Pool",
+            "image_path": null
+        },
+        {
+            "id": 42,
+            "name": "Nanny Service",
+            "image_path": null
+        },
+        {
+            "id": 43,
+            "name": "Shared Gym",
+            "image_path": null
+        },
+        {
+            "id": 44,
+            "name": "Garage",
+            "image_path": null
+        },
+        {
+            "id": 45,
+            "name": "Jacuzzi",
+            "image_path": null
+        },
+        {
+            "id": 46,
+            "name": "Private Garden",
+            "image_path": null
+        },
+        {
+            "id": 47,
+            "name": "Central A/C",
+            "image_path": null
+        },
+        {
+            "id": 48,
+            "name": "Balcony",
+            "image_path": null
+        },
+        {
+            "id": 49,
+            "name": "Built-in Wordrob",
+            "image_path": null
+        },
+        {
+            "id": 50,
+            "name": "Kitchen Appliances",
+            "image_path": null
+        },
+        {
+            "id": 51,
+            "name": "Dressing Room",
+            "image_path": null
+        }
+    ],
+    "tags": [],
+    "property_types": [
+        {
+            "id": 21,
+            "name": "Apartment",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/21/Apartment.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 1,
+            "name": "Villa",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/1/Villa.svg"
+            },
+            "has_land_area": true,
+            "has_mandatory_garden_area": true
+        },
+        {
+            "id": 6,
+            "name": "Twinhouse",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/6/Twin.svg"
+            },
+            "has_land_area": true,
+            "has_mandatory_garden_area": true
+        },
+        {
+            "id": 7,
+            "name": "Townhouse",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/7/Town_house.svg"
+            },
+            "has_land_area": true,
+            "has_mandatory_garden_area": true
+        },
+        {
+            "id": 3,
+            "name": "Duplex",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/3/Duplex.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 4,
+            "name": "Penthouse",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/4/Penthouse.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 5,
+            "name": "Chalet",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/5/Chalet.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 9,
+            "name": "Studio",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/9/Studio.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 11,
+            "name": "Cabin",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/11/Cabin.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 13,
+            "name": "Clinic",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/13/Clinic.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 8,
+            "name": "Office",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/8/Office.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        },
+        {
+            "id": 10,
+            "name": "Retail",
+            "icon": {
+                "url": "https://s3.eu-central-1.amazonaws.com/images.testing.kafrelmatloob.com/admin/property_type/icon/10/Retails.svg"
+            },
+            "has_land_area": false,
+            "has_mandatory_garden_area": false
+        }
+    ],
+    "sortings": [
+        {
+            "key": "min_price",
+            "value": "Minimum Price",
+            "direction": "asc"
+        },
+        {
+            "key": "min_price",
+            "value": "Maximum Price",
+            "direction": "desc"
+        },
+        {
+            "key": "min_ready_by",
+            "value": "Ready By",
+            "direction": "asc"
+        },
+        {
+            "key": "created_at",
+            "value": "Newest",
+            "direction": "desc"
+        },
+        {
+            "key": "min_installments",
+            "value": "Minimum Installment",
+            "direction": "asc"
+        },
+        {
+            "key": "min_installments",
+            "value": "Maximum Installment",
+            "direction": "desc"
+        }
+    ],
+    "sale_types": [
+        "resale",
+        "developer_sale",
+        "move_now_pay_later"
+    ]
+}
